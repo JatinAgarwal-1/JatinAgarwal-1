@@ -13,7 +13,6 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=JatinAgarwal-1.JatinAgarwal-1)
-![](https://www.instagram.com/_jatin_agarwal)
 
 <br />
 
