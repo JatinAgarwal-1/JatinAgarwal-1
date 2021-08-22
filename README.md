@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm Jatin Agarwal, a Full Stack Developer 🚀 from India, currently, I'm a 🙍🏽‍♂️ Former React Developer. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Jatin Agarwal, a Full Stack Developer 🚀 from India, currently, I'm a 🙍🏽‍♂️ Former React Developer. Beside's programming, I enjoy traveling and exploring new things.
 
 <br />
 
